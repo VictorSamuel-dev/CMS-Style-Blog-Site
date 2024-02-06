@@ -22,14 +22,15 @@ undefined
 - Node.js Version 16.18.1
 - Express.js:Express.js
 - Bcryptjs: 2.4.3
-- Connect Session Store using Sequelize: 7.0.4
-- Dotenv: 8.6.0
-- Express: 4.17.1
-- Express Handlebars: 5.2.0
-- Express-Session: 1.17.1
+- Connect Session Store using Sequelize: 7.1.6
+- Dotenv: 16.0.3
+- Express: 4.18.2
+- Express Handlebars: 7.0.7
+- Express-Session: 1.17.3
 - Handlebars.js: 4.7.6
-- Node MySql2: 2.3.3
-- Sequelize: 6.29.3
+- Node MySql2: 3.3.1
+- Sequelize: 6.31.1
+- TypeAnimation
 - License Badge: Shields.io
 - Visual Studio Code: Website
 ## Contact-Me
@@ -39,7 +40,7 @@ undefined
 ## Contributors
 N/A
 ## Deployed and Repository
-[Heroku]()
+[Heroku](https://victor-blog-app-d463a8cca2d6.herokuapp.com/)
 [GitHub Repository](https://github.com/VictorSamuel-dev/CMS-Style-Blog-Site)
 ## Testing
 *https://www.loom.com/share/b9708131203f49fa96ed28251113d264?sid=98228a19-a40c-41e1-a546-47cc0a6dafb6*
